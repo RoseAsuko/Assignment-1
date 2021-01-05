@@ -1,0 +1,8 @@
+.main{
+    background-color: cadetblue;
+    display:flex;
+    justify-content: center;
+}
+.jumbotron{
+background-color:lightblue ;
+}
