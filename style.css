@@ -1,0 +1,24 @@
+h1{
+text-align:center;
+}
+table
+{
+	border-spacing: 0px;
+	table-layout: fixed;
+	margin-left: auto;
+	margin-right: auto;
+	width: 310px;
+
+}
+
+.img-with-text
+{
+	text-align: center;
+	width: 150;
+	
+}
+.main{
+    background-color: cadetblue;
+    display:flex;
+    justify-content: center;
+}
