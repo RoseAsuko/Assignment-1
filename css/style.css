@@ -1,8 +1,20 @@
 .main{
-    background-color: cadetblue;
+    background-color: rgb(180, 213, 214);
     display:flex;
     justify-content: center;
+    margin:0;
 }
 .jumbotron{
-background-color:lightblue ;
+background-color:rgb(193, 218, 226) ;
+}
+.backround{
+    background:url(../img/prevent.jpg);
+    background-size: cover;
+    height:100vh;
+    opacity: 0.8; 
+
+}
+.box{
+    
+    font-weight: bold;
 }
